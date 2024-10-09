@@ -19,6 +19,7 @@ on:
       - 'AUTHORS'
       - 'NEWS'
       - 'ChangeLog'
+  workflow_dispatch:
 
 env:
   WDK_URL: https://go.microsoft.com/fwlink/p/?LinkID=253170
